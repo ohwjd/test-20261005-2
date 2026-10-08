@@ -6,3 +6,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-07T16:04:14.218Z,P0001,,38179254,reap,released_with_work,encoding,,,,
 2026-10-08T07:33:20.323Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",5
 2026-10-08T07:33:35.772Z,P0001,,297915765,claim_encoding,rejected,already_locked,campaign.claimTask,1,"{""task_id"":""P0001""}",6
+2026-10-08T16:06:42.672Z,P0001,,297915765,reap,released_with_work,encoding,,,,
